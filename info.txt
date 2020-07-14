@@ -1,2 +1,2 @@
-Project created during holidays after my high school. Nothing special here to be honest except for growing of snake. 
+Project created during holidays after my high school. Nothing special here to be honest except for growing of snake.
 I thought it is really cool I don't have to store direction of every part of snake separately.
